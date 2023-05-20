@@ -22,3 +22,6 @@
 8.	When that completes, click run>Debug As>STM32 Application.
 9.	When the Debug Configuration tab appears, leave all the settings as default.
 10.	Then, click the “Play” button to run the program on the Nucleo board.
+
+## Video Link
+https://youtu.be/lR36n76pnP4
