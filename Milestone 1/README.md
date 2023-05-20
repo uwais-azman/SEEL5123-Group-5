@@ -1,12 +1,17 @@
-Milestone 1: STM32 Familiarization
+# Milestone 1: STM32 Familiarization
 
-# Instruction
+## Group Members:
+1. Muhammad Uwais Bin Azman (A19EE0432)
+2. Izzat Bukhari Bin Zulkefle (A19EE0339)
+3. Muhammad Harith Wafi Bin Mohd Rosman (A19EE0375)
+
+## Instruction
 1. Make the stm32 blink
 2. Record a video
 3. In github, report the steps to make the blinky and set a pointer to video
 4. Submit the github link
 
-# Steps
+## Steps
 1.	Open STM32CubeIDE. Click “Start new STM32 project” and choose STM32f446 in the “Part Number Search” as the microcontroller.
 2.	Give the project name as intended (Blink).
 3.	Let the “Pinout & Configuration” and “Clock Configuration” as default settings
