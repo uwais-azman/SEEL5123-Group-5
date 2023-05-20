@@ -1,6 +1,6 @@
 # Milestone 1: STM32 Familiarization
 
-## Group Members:
+## Group Members
 1. Muhammad Uwais Bin Azman (A19EE0432)
 2. Izzat Bukhari Bin Zulkefle (A19EE0339)
 3. Muhammad Harith Wafi Bin Mohd Rosman (A19EE0375)
